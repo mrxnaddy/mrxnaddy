@@ -42,12 +42,12 @@ An AI-powered scholarship & student opportunity advisor — combines a local dat
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrxnaddy&show_icons=true&theme=radical&hide_border=true" alt="Nadir's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mrxnaddy&show_icons=true&theme=radical&hide_border=true" alt="Nadir's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrxnaddy&theme=radical&hide_border=true" alt="Nadir's GitHub streak" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxnaddy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrxnaddy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
