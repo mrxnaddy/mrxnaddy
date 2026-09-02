@@ -19,9 +19,19 @@
 
 ### 🚀 Featured Project
 
-**[ScholarAI Assistant](https://github.com/mrxnaddy/ScholarAI-Assistant)**
-An AI-powered scholarship & student opportunity advisor — combines a local database, live web search, and an LLM tool-calling agent to help students find scholarships, check eligibility, and get required documents.
-🔗 Live demo: [scholaraiassistant.streamlit.app](https://scholaraiassistant.streamlit.app/)
+🎓 ScholarAI Assistant
+
+ScholarAI Assistant
+An AI-powered scholarship and student opportunity advisor designed to simplify the scholarship discovery process. It uses a local knowledge base, live web search, and an LLM-powered agent to help students discover opportunities, check eligibility, understand requirements, and identify the documents they need.
+
+🔗 Live Demo: https://scholaraiassistant.streamlit.app/
+
+🏛️ Paper Trail — AI Bureaucracy Navigator
+
+Paper Trail
+An AI-powered bureaucracy navigator built for Pakistan that makes complex government procedures easier to understand. It provides step-by-step guidance for services such as CNIC, passport, driving license, and vehicle registration, including document checklists, fees, processing information, and relevant government offices.
+
+🔗 Live Demo: https://paper-trail-agent.streamlit.app/
 
 ---
 
